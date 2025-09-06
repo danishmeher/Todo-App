@@ -1,0 +1,13 @@
+@media (max-width: 450px){
+    .input-field{
+        display: flex;
+    }
+    .input-field input {
+        width: 100%;
+        height: 30px;
+    }
+    .buttons{
+        display: flex;
+        margin-left: 20px;
+    }
+}
